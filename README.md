@@ -1,4 +1,4 @@
-# SQL - Projects Through CoRise 
+# SQL - Projects Through CoRise Using Airnb Data 
 
 Project 1 
 
